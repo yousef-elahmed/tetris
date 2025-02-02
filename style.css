@@ -1,0 +1,24 @@
+#tetris {
+    position: relative;
+    width: 400px;
+    height: 600px;
+    border: solid 5px rgb(173, 173, 173);
+    background-color: aliceblue;
+    margin: auto;
+}
+
+.brick {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: rgb(190, 121, 255);
+    border: solid 3px rgb(169, 78, 255);
+    box-sizing: border-box;
+
+}
+
+.center {
+    background-color: rgb(132, 1, 255);
+    ;
+}
